@@ -3,6 +3,6 @@ Recylview ve Cardview kullanrak hoş tasarıma sahip bir ufak uygulama.
 
 ## Uygulama Görüntüleri / App Pictures
 
-![alt text](https://raw.githubusercontent.com/cemilakan/RecyclAndCardUiExample/master/images/Screenshot_1570008563.png)
+![alt text](https://github.com/cemilakan/EcommerceUiKit/blob/master/ecommerce.png?raw=true)
 
 Thanks for visit.
